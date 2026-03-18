@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ネクロマンスラヴ / Fushi feat.GUMI",
+  "base_artist": "Fushi",
+  "createdAt": "2026-03-18T15:20:21.332411Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ネクロマンスラヴ",
+      "artist": "Fushi",
+      "has_synced": false,
+      "path": "select/pl_01_ネクロマンスラヴ_Fushi.txt"
+    }
+  ]
+}
